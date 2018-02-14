@@ -1,0 +1,2 @@
+ssued                Expires               Principal
+Feb 13 10:43:48 2018  Feb 13 20:43:48 2018  krbtgt/WETHINKCODE.CO.ZA@WETHINKC
